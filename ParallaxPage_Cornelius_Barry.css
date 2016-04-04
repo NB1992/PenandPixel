@@ -1,0 +1,474 @@
+@charset "utf-8";
+/* CSS Document */
+/*Menu*/
+#nav{
+    list-style-type: none;
+    margin:50px;
+    padding: 0;
+    overflow: hidden;
+    position:static;
+    top: 0;
+    width: 100%;
+	height:100px;
+	
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color:#000;
+}
+
+.active {
+    background-color:#000;
+}
+
+
+
+#Menu
+{
+ background-image:url(Menu.jpg);
+ height:100px;
+}
+
+
+#link
+{
+ font-size:25px;	
+}
+
+
+
+/* body */
+body
+{
+ height:1080px;
+ width:1920px;
+ background-image:url(Website.jpg);	
+}
+
+
+/*Writing*/
+/*Headers*/
+#intro
+{
+ color:#FFF;
+ margin-left:50px;
+ font-size:30px;
+ font-family:"Courier New", Courier, monospace;
+}
+#info 
+{
+ color:#FFF;
+ margin-left:50px;
+ font-size:20px;
+ font-family:"Courier New", Courier, monospace;
+}
+
+
+
+#find
+{
+ color:#FFF;
+ margin-left:50px;
+ font-size:30px;
+ font-family:"Courier New", Courier, monospace;
+}
+
+
+#spon
+{
+ color:#FFF;
+ margin-left:50px;
+ font-size:30px;
+ font-family:"Courier New", Courier, monospace;
+}
+
+
+/*paragraphs*/
+
+
+#moreinfo
+{
+ color:#FFF;
+ 
+ font-size:30px;
+ font-family:"Courier New", Courier, monospace;
+}
+
+#moreabout
+{
+ color:#FFF;
+ font-size:15px;
+ font-family:"Courier New", Courier, monospace;
+}
+
+
+#text
+{
+ color:#FFF;
+ font-size:25px;
+ font-family:"Courier New", Courier, monospace;
+}
+
+#text2
+{
+ color:#FFF;
+ font-size:25px;
+ font-family:"Courier New", Courier, monospace;
+}
+
+#text3
+{
+ color:#FFF;
+ font-size:25px;
+ font-family:"Courier New", Courier, monospace;
+}
+
+/*Divs*/
+/* First Html Divs*/
+
+#Home
+{
+ height:200px;
+ width:1500px;	
+ border:#000 dashed 3px;
+}
+
+/*Divs*/
+/* First Html Divs*/
+
+#Home
+{
+ height:200px;
+ width:1500px;	
+ border:#000 dashed 3px;
+ margin:100px;
+}
+
+
+#About
+{
+ height:200px;
+ width:1500px;	
+ border:#000 dashed 2px;
+ margin-left:100px;
+}
+
+#Gallery
+{
+ height:200px;
+ width:1500px;	
+ border:#000 dashed 3px;
+ margin:100px;	
+}
+
+
+#Contact
+{
+ height:250px;
+ width:900px;	
+ border:#000 dashed 3px;
+ margin:100px;
+}
+
+
+ #Find
+{
+ height:50px;
+ width:1100px;	
+ border:#000 dashed 3px;
+ margin:100px;
+}
+
+
+ #Blurb
+{
+ height:200px;
+ width:1500px;	
+ border:#000 dashed 3px;
+ margin:100px;
+}
+
+#Sponser
+{
+ height:400px;
+ width:1500px;	
+ border:#000 dashed 3px;
+ margin:100px;
+}
+
+
+
+
+/*Second divs*/
+#Move
+{
+ height:50px;
+ width:100px;
+ margin-left:25px;
+ float:left;
+}
+#Move2
+{
+ height:50px;
+ width:100px;
+ margin-left:50px;
+ float:left;
+}
+
+#Move3
+{
+ height:50px;
+ width:100px;
+ margin-left:100px;
+ float:left;
+}
+
+#Move4
+{
+ height:50px;
+ width:100px;
+ margin-left:150px;
+ float:left;
+}
+
+#Move5
+{
+ height:50px;
+ width:100px;
+ margin-left:200px;
+ float:left;
+}
+#Move6
+{
+ height:50px;
+ width:100px;
+ margin-left:250px;
+ float:left;
+}
+#Move7
+{
+ height:50px;
+ width:100px;
+ margin-left:300px;
+ float:left;
+}
+
+
+
+
+
+
+
+
+/*Social images*/
+#Media
+{
+ height:50px;
+ width:50px;	
+}
+
+#Media2
+{
+ height:50px;
+ width:50px;	
+}
+
+
+
+
+#Media3
+{
+ height:50px;
+ width:50px;	
+}
+
+
+
+
+
+#Media4
+{
+ height:50px;
+ width:50px;	
+}
+
+
+#Media5
+{
+ height:50px;
+ width:50px;	
+}
+
+#Media6
+{
+ height:50px;
+ width:50px;	
+}
+
+
+#Media7
+{
+ height:50px;
+ width:50px;	
+}
+
+/*Sponser images*/
+#Gov
+{
+ height:100px;
+ width:1500px;	
+}
+
+#esf
+{
+ height:100px;
+ width:1500px;	
+}
+
+
+
+#enterprise
+{
+ height:100px;
+ width:1500px;	
+}
+
+
+#Limerick
+{
+ height:100px;
+ width:1500px;	
+}
+
+
+
+
+/*google*/
+iframe
+{
+ height:900px;
+ width:1920px;	
+}
+
+/*links*/
+#gallerypage
+{
+ color:#FFF;
+ margin-left:50px;
+ font-size:50px;
+ font-family:"Courier New", Courier, monospace;
+}
+
+#contactform
+{
+ color:#FFF;
+ margin-left:50px;
+ font-size:30px;
+ font-family:"Courier New", Courier, monospace;
+}
+
+#findpage
+{
+ color:#FFF;
+ margin-left:50px;
+ font-size:30px;
+ font-family:"Courier New", Courier, monospace;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Sections/scrolling*/
+.container
+{
+ max-height:300px;	
+ max-width:1000px;
+ margin:0 auto; 	
+}
+
+
+section.parallax
+{
+ height:100px;
+ width:1500px;
+ background-repeat:no-repeat;
+ background-attachment:fixed;
+ background-size:auto;	
+}
+
+section.parallax-2
+{
+ height:200px;
+ width:1500px;
+ background-repeat:no-repeat;
+ background-attachment:fixed;
+ background-size:auto;	
+}
+
+
+section.parallax-3
+{
+ height:200px;
+ width:1500px;
+ background-repeat:no-repeat;
+ background-attachment:fixed;
+ background-size:auto;	
+}
+
+
+
+.parallax
+{
+  background-image:url(Home.jpg);	
+}
+
+.parallax-2
+{
+ background-image:url(About.jpg);
+}
+
+.parallax-3
+{
+ background-image:url(Gallery.jpg);
+}
+
+@media all and (min-width:600px)
+@media all and (min-height:600px)
+@media all and (min-width:1920px)
+@media all and (min-height:1080px)
+
+
+
+
+
+
+
+
+

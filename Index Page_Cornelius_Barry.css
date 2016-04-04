@@ -1,0 +1,108 @@
+@charset "utf-8";
+/* CSS Document */
+/*Menu Index*/
+#Menu
+{
+height:100px;
+width:1920px;	
+}
+
+
+
+#navi {
+    float: left;
+}
+
+
+#menu {
+    float: left;
+	 display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+	font-size:25px;
+}
+
+
+#menu:hover:not(.active) {
+    background-color:#F00;
+}
+
+.active {
+    background-color:#000;
+}
+
+
+
+#Menu
+{
+ background-image:url(Menu.jpg);
+ height:100px;
+ width:1920px;
+}
+
+
+
+
+
+
+
+/*Index */
+body
+{
+ background-color:#00F;
+ height:1080px;
+ width:1920px;
+}
+
+#Landing
+{
+ background-image:url(Website.jpg);
+ height:1080px;
+ width:1920px;
+ margin-top:50px;
+ 
+}
+
+
+
+
+ 
+#FilmProjector
+{
+ height:1080px;
+ width:1920px;
+ background-image:url(Landing.jpg);
+ position:static;
+ 
+
+}
+#Move
+{
+ height:200px;
+ width:200px;
+ float:left;
+ margin-left:800px;
+ margin-top:120px;
+ 
+
+}
+
+#Move2
+{
+ height:200px;
+ width:200px;
+ float:right;
+ margin-right:400px;
+ margin-top:120px;
+ 
+
+}
+
+
+
+@media all and (min-width:600px)
+@media all and (min-height:600px)
+@media all and (min-width:1920px)
+@media all and (min-height:1080px)
